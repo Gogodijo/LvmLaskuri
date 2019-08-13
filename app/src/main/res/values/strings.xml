@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">LvmLaskuri</string>
+    <string name="fin_lava">Fin lava:</string>
+    <string name="euro_lava">Euro lava:</string>
+    <string name="rlk">Rullakko:</string>
+    <string name="mrlk">Maitorullakko:</string>
+    <string name="dol">Dolly:</string>
+    <string name="teho">Teho lava:</string>
+    <string name="vartti">Varttilava:</string>
+    <string name="kukka">Kukkarlk:</string>
+    <string name="pa600l">600L pullo:</string>
+    <string name="pa240l">240L pullo:</string>
+    <string name="lvmtulos">Lavametrit:</string>
 </resources>
