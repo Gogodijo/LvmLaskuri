@@ -10,5 +10,7 @@
     <string name="kukka">Kukkarlk:</string>
     <string name="pa600l">600L pullo:</string>
     <string name="pa240l">240L pullo:</string>
-    <string name="lvmtulos">Lavametrit:</string>
+    <string name="lvmalku">Lavametrit: </string>
+    <string name="lvmtulos">Lavametrit: %1$d lvm </string>
+    <string name="reset">Resetoi</string>
 </resources>
